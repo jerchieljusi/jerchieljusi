@@ -3,6 +3,7 @@ In case you're having a hard time trying to figure out how to pronounce my name,
 ## Here are my completed projects
 * [Bella Beat Case Study](https://github.com/jerchieljusi/Bella-Beat-Study-Case) 
 * [Covid Vaccination Progress](https://github.com/jerchieljusi/Covid-Vaccination-Progress)
+* [Pending.....]
 ## What am I working on?
 * I'm currently researching more projects to include in my portfolio (currently practicing more with SQL, and R) 
 * I'm currently learning the basics of Python to improve my skills as an analyst 
