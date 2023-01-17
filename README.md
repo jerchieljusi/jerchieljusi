@@ -7,3 +7,5 @@ In case you're having a hard time trying to figure out how to pronounce my name,
 * I'm currently researching more projects to include in my portfolio (currently practicing more with SQL, and R) 
 * I'm currently learning the basics of Python to improve my skills as an analyst 
 * I'm currently learning ways to improve my resume to become a better candidate 
+
+You can contact me through my [LinkedIn](https://www.linkedin.com/in/jerchiel-jusi-571034b5/) for anything! 
