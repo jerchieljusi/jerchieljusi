@@ -3,8 +3,12 @@ In case you're having a hard time trying to figure out how to pronounce my name,
 ## Certifications 
 * [Google Data Analytics Certificate](https://www.credly.com/badges/8aa5fd42-bef2-459d-91a3-5903e3a32e7f/linked_in_profile)
 ## Here are my completed projects
+***R***
 * [Bella Beat Case Study](https://github.com/jerchieljusi/Bella-Beat-Study-Case) 
 * [Covid Vaccination Progress](https://github.com/jerchieljusi/Covid-Vaccination-Progress)
+***SQL***
+* [State Population COVID 19](https://github.com/jerchieljusi/State-Population-COVID-19)
+***Tableau***
 * Data visuals using [tableau](https://public.tableau.com/app/profile/jerchiel.jusi)
 * [Pending.....]
 ## What am I working on?
