@@ -10,6 +10,7 @@ In case you're having a hard time trying to figure out how to pronounce my name,
 ***SQL***
 * [State Population COVID 19](https://github.com/jerchieljusi/State-Population-COVID-19)
 * [Danny's Diner](https://github.com/jerchieljusi/Danny-s-Diner)
+* [Nashville Housing Data Cleaning](https://github.com/jerchieljusi/Data-Cleaning)
 
 ***Tableau***
 * Data visuals using [tableau](https://public.tableau.com/app/profile/jerchiel.jusi)
