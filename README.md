@@ -13,7 +13,7 @@ In case you're having a hard time trying to figure out how to pronounce my name,
 * [Nashville Housing Data Cleaning](https://github.com/jerchieljusi/Data-Cleaning)
 
 ***Tableau***
-* Data visuals using [tableau](https://public.tableau.com/app/profile/jerchiel.jusi)
+* Dashboards using [tableau](https://public.tableau.com/app/profile/jerchiel.jusi)
 
 ## What am I working on?
 * I'm currently researching more projects to include in my portfolio (currently practicing more with SQL, and R) 
